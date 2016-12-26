@@ -4,5 +4,5 @@ Demo for meetjs Poznan
 
 Tools used:
 - http://karma-runner.github.io/
-- http://visionmedia.github.io/mocha/
+- http://mochajs.org/
 - http://chaijs.com/
